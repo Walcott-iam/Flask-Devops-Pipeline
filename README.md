@@ -20,13 +20,13 @@ Then visit http://localhost:5000 in your browser.
 
 Evidence
 1. Local Testing Success
-[Insert Screenshot 1 here - The local terminal showing "1 passed"]
+![Testing successful](https://github.com/Walcott-iam/Flask-Devops-Pipeline/blob/main/Task%205%20testing%20succesful.png)
 
 2. GitHub Actions Pipeline Success
-[Insert Screenshot 2 here - The green checkmark on the Actions page]
+![The green checkmark on the Actions](https://github.com/Walcott-iam/Flask-Devops-Pipeline/blob/main/task%205%20Action%20green%20check.png)
 
 3. Monitoring & Logs (Cloud Pipeline)
-[Insert Screenshot 3 here - The expanded logs showing the app startup and curl test]
+![Github action success](https://github.com/Walcott-iam/Flask-Devops-Pipeline/blob/main/Github%20action%20success.png)
 
 4. Live Application Running Locally
-[Insert Screenshot 4 here - The browser showing "Hello from Task 5!"]
+![The browser showing "Hello from Task 5!"](https://github.com/Walcott-iam/Flask-Devops-Pipeline/blob/main/my%20live%20app.png)
